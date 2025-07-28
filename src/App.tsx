@@ -17,10 +17,8 @@ function App() {
       <Hero />
       <About />
       <Spirit />
-      <Team />
       <GetInvolved />
       <Events />
-      {/* <Partners /> */}
       <Contact />
       <Footer />
     </div>
