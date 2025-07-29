@@ -46,8 +46,8 @@ const Contact = () => {
     {
       icon: <Mail size={24} />,
       title: 'Email Us',
-      details: 'ecell.ddu@gmail.com',
-      action: 'mailto:ecell.ddu@gmail.com'
+      details: 'transformers.ecell@gmail.com',
+      action: 'mailto:transformers.ecell@gmail.com'
     },
     {
       icon: <Phone size={24} />,
