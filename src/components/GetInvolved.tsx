@@ -89,7 +89,7 @@ const GetInvolved = () => {
                 </div>
 
                 {/* Apply Button */}
-                <button onClick={() => window.location.href = 'mailto:abhijeet.gupta@theelitess.com'} className={`w-full bg-gradient-to-r ${role.color} text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-300 transform hover:scale-105 flex items-center justify-center space-x-2`}>
+                <button onClick={() => window.location.href = 'mailto:transformers.ecell@gmail.com'} className={`w-full bg-gradient-to-r ${role.color} text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-300 transform hover:scale-105 flex items-center justify-center space-x-2`}>
                   <span>Send Us a Mail</span>
                   <ArrowRight size={18} />
                 </button>
@@ -106,7 +106,7 @@ const GetInvolved = () => {
             Tell us about your skills and how you'd like to help!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button onClick={() => window.location.href = 'mailto:ecell.ddu@gmail.com'} className="bg-gradient-to-r from-yellow-400 to-orange-500 text-gray-900 px-8 py-4 rounded-full font-bold text-lg hover:shadow-2xl hover:shadow-yellow-400/25 transition-all duration-300 transform hover:scale-105">
+            <button onClick={() => window.location.href = 'mailto:transformers.ecell@gmail.com'} className="bg-gradient-to-r from-yellow-400 to-orange-500 text-gray-900 px-8 py-4 rounded-full font-bold text-lg hover:shadow-2xl hover:shadow-yellow-400/25 transition-all duration-300 transform hover:scale-105">
               Contact Us
             </button>
           </div>

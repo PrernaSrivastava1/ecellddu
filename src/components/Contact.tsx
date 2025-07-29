@@ -28,7 +28,7 @@ const Contact = () => {
       `Message:\n${formData.message}`
     );
     
-    const mailtoUrl = `mailto:ecell.ddu@gmail.com?subject=${subject}&body=${body}`;
+    const mailtoUrl = `mailto:transformers.ecell@gmail.com?subject=${subject}&body=${body}`;
     
     // Open email client
     window.location.href = mailtoUrl;
@@ -52,8 +52,8 @@ const Contact = () => {
     {
       icon: <Phone size={24} />,
       title: 'Call Us',
-      details: '+91 8887838118',
-      action: 'tel:+918887838118'
+      details: 'UPDATE SOON',
+      action: 'tel:UPDATE SOON'
     },
     {
       icon: <MapPin size={24} />,

@@ -90,11 +90,11 @@ const Footer = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="flex items-center space-x-3">
               <Mail size={20} className="text-yellow-400" />
-              <span className="text-gray-300">abhijeet.gupta@theelitess.com</span>
+              <span className="text-gray-300">transformers.ecell@gmail.com</span>
             </div>
             <div className="flex items-center space-x-3">
               <Phone size={20} className="text-yellow-400" />
-              <span className="text-gray-300">+91 8887838118</span>
+              <span className="text-gray-300">UPDATE SOON</span>
             </div>
             <div className="flex items-center space-x-3">
               <MapPin size={20} className="text-yellow-400" />
